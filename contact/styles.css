@@ -52,7 +52,6 @@ nav ul li a:hover {
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
-    visibility: hidden;
 }
 
 .story, .about, .team {
