@@ -8,3 +8,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         });
     });
 });
+
+function toggleMobileMenu(menu){
+    menu.classList.toggle('open');
+}
